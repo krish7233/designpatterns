@@ -1,0 +1,14 @@
+D:\Krishan\DesignPatterns\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.exe
+D:\Krishan\DesignPatterns\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.deps.json
+D:\Krishan\DesignPatterns\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.runtimeconfig.json
+D:\Krishan\DesignPatterns\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.dll
+D:\Krishan\DesignPatterns\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.pdb
+D:\Krishan\DesignPatterns\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Krishan\DesignPatterns\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.AssemblyInfoInputs.cache
+D:\Krishan\DesignPatterns\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.AssemblyInfo.cs
+D:\Krishan\DesignPatterns\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+D:\Krishan\DesignPatterns\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.dll
+D:\Krishan\DesignPatterns\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\refint\SingletonDesignPattern.dll
+D:\Krishan\DesignPatterns\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.pdb
+D:\Krishan\DesignPatterns\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.genruntimeconfig.cache
+D:\Krishan\DesignPatterns\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\ref\SingletonDesignPattern.dll

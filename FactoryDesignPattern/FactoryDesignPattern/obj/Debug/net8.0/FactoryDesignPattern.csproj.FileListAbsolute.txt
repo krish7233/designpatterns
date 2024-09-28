@@ -1,0 +1,15 @@
+D:\Krishan\DesignPatterns\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.exe
+D:\Krishan\DesignPatterns\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.deps.json
+D:\Krishan\DesignPatterns\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.runtimeconfig.json
+D:\Krishan\DesignPatterns\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.dll
+D:\Krishan\DesignPatterns\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.pdb
+D:\Krishan\DesignPatterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Krishan\DesignPatterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfoInputs.cache
+D:\Krishan\DesignPatterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfo.cs
+D:\Krishan\DesignPatterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+D:\Krishan\DesignPatterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.sourcelink.json
+D:\Krishan\DesignPatterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.dll
+D:\Krishan\DesignPatterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\refint\FactoryDesignPattern.dll
+D:\Krishan\DesignPatterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.pdb
+D:\Krishan\DesignPatterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.genruntimeconfig.cache
+D:\Krishan\DesignPatterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\ref\FactoryDesignPattern.dll
